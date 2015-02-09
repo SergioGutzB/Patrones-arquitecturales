@@ -1,0 +1,1045 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"a",
+				"align	Attr"
+			],
+			[
+				"K",
+				"Kpi"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"O",
+				"Organizacion"
+			],
+			[
+				"s",
+				"diferenciaSquares"
+			],
+			[
+				"fi",
+				"fibonacci"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"sle",
+				"self"
+			],
+			[
+				"l",
+				"lp"
+			],
+			[
+				"r",
+				"re"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"min",
+				"minidom"
+			],
+			[
+				"gen",
+				"generos"
+			],
+			[
+				"consu",
+				"consulta"
+			],
+			[
+				"consul",
+				"consultar"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"dat",
+				"dataR"
+			],
+			[
+				"data",
+				"dataR"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"V",
+				"vE"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			],
+			[
+				"id",
+				"id_tipo"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"me",
+				"method	Attr"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"G",
+				"GET"
+			],
+			[
+				"FO",
+				"Form	Form"
+			],
+			[
+				"render",
+				"render_to_response"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"Tipo",
+				"Tipo_indicador"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"no",
+				"nodeValue"
+			],
+			[
+				"di",
+				"dicionario"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"el",
+				"elements"
+			],
+			[
+				"node",
+				"nodeName"
+			],
+			[
+				"ch",
+				"childNodes"
+			],
+			[
+				"xml",
+				"xml_documento"
+			],
+			[
+				"BA",
+				"BASE_DIR	statement"
+			],
+			[
+				"TEM",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"ocultar",
+				"ocultar2"
+			],
+			[
+				"c",
+				"clientY"
+			],
+			[
+				"cli",
+				"clientX"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mos",
+				"mostrar2"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"sp",
+				"span	Tag"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"vi",
+				"views	module"
+			],
+			[
+				"lis",
+				"lista_indicador	statement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "kpis/kpiApp/static/js/load.js",
+			"settings":
+			{
+				"buffer_size": 7461,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/static/css/estilo.css",
+			"settings":
+			{
+				"buffer_size": 475,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".logo{\nmargin-bottom: 5px;\n\n}\n.slide-image {\n  width: 100%;\n}\n\n.carousel-holder {\n  margin-bottom: 30px;\n\n}\n\n.carousel-control,.item {\n  border-radius: 4px;\n  \n}\n\n.caption {\n  height: 130px;\n  overflow: hidden;\n}\n\n.caption h4 {\n  white-space: nowrap;\n}\n\n.thumbnail img {\n  width: 100%;\n}\n\n.ratings {\n  color: #d17581;\n  padding-left: 10px;\n  padding-right: 10px;\n}\n\n.thumbnail {\n  padding: 0;\n}\n\n.thumbnail .caption-full {\n  padding: 9px;\n  color: #333;\n}\n.content{\n  margin-top: 30px;\n}\n\nfooter {\n  margin: 50px 0;\n}\n\n.caja-redes {\n    margin: 0 auto;\n    padding: 15px;\n    position: relative;\n    width: 400px;\n    display: inline-block;\n}\n.caja-redes a {\n    text-align: center;\n    font-size: 20px;\n}\n\n\n",
+			"file": "kpis/kpiApp/static/css/site.css",
+			"file_size": 770,
+			"file_write_time": 130621723746343657,
+			"settings":
+			{
+				"buffer_size": 708,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/templates/addRepresentante.html",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/views.py",
+			"settings":
+			{
+				"buffer_size": 2423,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/urls.py",
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 2980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{% extends \"index.html\" %}\n\n{% block title %}Crear Organizacion{% endblock %}\n\n{% block content %}\n\n	<!-- ...................Contenedor Contenido General......................... -->\n\n	\n	<section class=\"container content\">\n    	<div class=\"row\">\n        	<section class=\"panel panel-default\">\n  				<section class=\"panel-body\">\n		        	<div class=\"col-md-12 row\">\n		        		<div class=\"page-header\">\n								<h3 class=\"text-center\" >Agregar nueva Organización</h3>\n						</div>\n						<section>\n							<form action=\"{% url 'view_addOrg' %}\" method=\"POST\" role=\"form\">								\n								{% csrf_token %}\n								{{ form.as_p }}\n								<input type=\"submit\" value=\"Guardar\">\n								<input type=\"reset\" value=\"Reset\">\n							</form>\n			        		      	\n				      	</section>\n					</div>\n				</section>\n			</section>\n		</div>	\n	</section>\n  	<script type=\"text/javascript\">\n  		var x = document.createElement(\"id_txt_color\");\n		x.setAttribute(\"type\", \"color\");\n  	</script>\n\n{% endblock %}\n\n",
+			"file": "kpis/kpiApp/templates/addOrg.html",
+			"file_size": 991,
+			"file_write_time": 130625653220360770,
+			"settings":
+			{
+				"buffer_size": 991,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/forms.py",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/templates/generador.html",
+			"settings":
+			{
+				"buffer_size": 2005,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/static/js/bootstrap.min.js",
+			"settings":
+			{
+				"buffer_size": 29110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/static/js/handlebars.js",
+			"settings":
+			{
+				"buffer_size": 99773,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kpis/kpiApp/templates/lista_org.html",
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sergio/patrones",
+		"/home/sergio/patrones/kpis",
+		"/home/sergio/patrones/kpis/kpiApp",
+		"/home/sergio/patrones/kpis/kpiApp/static",
+		"/home/sergio/patrones/kpis/kpiApp/static/css",
+		"/home/sergio/patrones/kpis/kpiApp/static/js",
+		"/home/sergio/patrones/kpis/kpiApp/templates"
+	],
+	"file_history":
+	[
+		"/home/sergio/patrones/kpis/kpiApp/templates/lista_org.html",
+		"/home/sergio/patrones/kpis/kpiApp/templates/addOrg.html",
+		"/home/sergio/patrones/requirements.txt",
+		"/home/sergio/patrones/kpis/kpiApp/templates/generador.html",
+		"/home/sergio/patrones/kpis/kpiApp/views.py",
+		"/home/sergio/patrones/kpis/kpiApp/forms.py",
+		"/home/sergio/patrones/kpis/kpiApp/static/css/estilo.css",
+		"/home/sergio/.config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/etc/init.d/apache2",
+		"/home/sergio/Escritorio/Banda.xml",
+		"/home/sergio/UD/Diseño de Patrones/Consulta/Banda.xml",
+		"/home/sergio/djcode/Indicadores/KPIs/indicadores/forms.py",
+		"/home/sergio/djcode/Indicadores/KPIs/indicadores/views.py",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/base.html",
+		"/home/sergio/djcode/Indicadores/KPIs/static/css/style.css",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/insertar.html",
+		"/media/sergio/SergioNTFS/Todo WEB/Chart.js-master/samples/bar.html",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/indicadores.html",
+		"/home/sergio/djcode/Indicadores/KPIs/KPIs/urls.py",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/single_tipo.html",
+		"/home/sergio/djcode/Indicadores/KPIs/indicadores/urls.py",
+		"/home/sergio/djcode/Indicadores/KPIs/static/js/eliminar.js",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/editar_tipo.html",
+		"/media/sergio/SergioNTFS/Todo WEB/Chart.js-master/samples/line.html",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/index.html",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/tipo_indicadores.html",
+		"/home/sergio/djcode/Indicadores/KPIs/indicadores/models.py",
+		"/home/sergio/djcode/Indicadores/KPIs/indicadores/admin.py",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/login.html",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/tipos.html",
+		"/home/sergio/djcode/Indicadores/KPIs/KPIs/views.py",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/search.html",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/single.html",
+		"/home/sergio/djcode/Indicadores/KPIs/KPIs/settings.py",
+		"/home/sergio/Escritorio/Consulta/banda2.xml",
+		"/home/sergio/Escritorio/banda.dtd",
+		"/media/sergio/F21CD3E31CD3A0C1/xampp/htdocs/wordpress/wp-content/themes/IEEE/index.php",
+		"/media/sergio/F21CD3E31CD3A0C1/xampp/htdocs/wordpress/wp-content/themes/IEEE/style.css",
+		"/media/sergio/F21CD3E31CD3A0C1/xampp/htdocs/wordpress/wp-content/themes/IEEE/footer.php",
+		"/home/sergio/Cursos/Jquery/index.html",
+		"/home/sergio/Cursos/Jquery/style.css",
+		"/home/sergio/Cursos/Jquery/codigo.js",
+		"/home/sergio/djcode/Indicadores/KPIs/static/js/codigo.js",
+		"/home/sergio/djcode/Indicadores/KPIs/templates/indicador/editar.html",
+		"/home/sergio/djcode/Indicadores/.gitignore",
+		"/home/sergio/djcode/KPIs/indicadores/admin.py",
+		"/home/sergio/djcode/KPIs/indicadores/urls.py",
+		"/home/sergio/djcode/KPIs/static/css/style.css",
+		"/home/sergio/djcode/KPIs/templates/indicador/insertar.html",
+		"/home/sergio/djcode/KPIs/templates/base.html",
+		"/home/sergio/djcode/KPIs/indicadores/views.py",
+		"/home/sergio/djcode/KPIs/templates/indicador/singleIndicador.html",
+		"/home/sergio/djcode/KPIs/indicadores/forms.py",
+		"/home/sergio/djcode/KPIs/indicadores/models.py",
+		"/home/sergio/djcode/KPIs/templates/indicador/indicadores.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Guarda",
+			"});\n",
+			"kpis",
+			"findall",
+			"4",
+			"\n	",
+			"\">\n",
+			"());\n",
+			"footer",
+			"indicadores",
+			"indicaodres",
+			"productos",
+			"p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"indicador",
+			"indicadores",
+			"indicaodres",
+			"i"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "kpis/kpiApp/static/js/load.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1141,
+								1141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "kpis/kpiApp/static/css/estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "kpis/kpiApp/static/css/site.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "kpis/kpiApp/templates/addRepresentante.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "kpis/kpiApp/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1239,
+								1239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "kpis/kpiApp/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								704,
+								704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "kpis/kpiApp/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1257,
+								1257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "kpis/kpiApp/templates/addOrg.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "kpis/kpiApp/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "kpis/kpiApp/templates/generador.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								851,
+								851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "kpis/kpiApp/static/js/bootstrap.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "kpis/kpiApp/static/js/handlebars.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 99773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "kpis/kpiApp/templates/lista_org.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								566,
+								566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Patrones.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

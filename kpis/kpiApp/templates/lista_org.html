@@ -1,0 +1,37 @@
+{% extends "index.html" %}
+
+{% block title %}Lista de Indicadores{% endblock %}
+
+{% block content %}
+{% load staticfiles %}
+
+<div class="col-md-12">
+<h1>Listado de Organizaciones Registradas</h1>
+<br>
+{% if lista_org %}
+
+	<table class="table table-hover table-condensed" id ="tabla_indicadores"> 
+    	<thead>
+            <tr>
+              <th>Organización</th>
+              <th>Representante</th>
+               <th>Acción</th>
+            </tr>
+        </thead>
+		{% for i in lista_org %}
+		<tbody>
+	     	<tr id="tr{{i.id}}"><a href=" ">
+	     		<td>{{i.nombre}}</td>
+	     		<td>{{i.representante}}</td>
+	     		<td><a href="{% url 'view_generador' i %}" target="_blank"><button type="button" class="btn btn-default btn-me"><span class="glyphicon glyphicon-cog"></span> Generar aplicativo</button></a></td>
+	  		</a>
+	  		</tr>
+	  	</tbody>
+		{% endfor %}
+	</table>
+{% else %}
+	<h2>No ha creado aún un tipo de indicador!</h2>
+{% endif %}
+</div>
+
+{% endblock %}

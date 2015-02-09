@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+{% load templatetag_handlebars %}
+  <head>
+  {% handlebars_js %}
+    <title>Indicadores</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/estilo.css">
+        <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.min.css">
+    <script src="/static/js/jquery-1.10.2.js"></script>
+    <script src="/static/js/jquery.form.min.js"></script>
+    <script src="/static/js/handlebars.js"></script>
+    <script type="text/javascript" src="/static/js/Chart.js"></script>
+    <script type="text/javascript" src="/static/js/load.js"></script>
+    <input type="hidden" value="{{ org }}" id="id">    
+
+
+    {% tplhandlebars "template" %}
+
+    <div id="cabecera">
+      {{{Img logo_url posicion}}}
+      {{{Titulo nombre tamano txt_color}}}
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="btn-group-vertical" role="group" aria-label="...">
+          {{# each indicadores}}
+            {{Kpi this}}
+          {{/each}}
+          
+        </div>
+      </div>
+      <div class="panel panel-default col-md-9">
+        <div class="panel-body" id="tablero">
+          <p align="justific">Este aplicativo ha sido generado, con los parámetros que se eligieron al registrar su organización, en nuestro servicio.</p>
+          <span class="glyphicon glyphicon-hand-left"></span> 
+          <p align="justific">En la parte izquierda de la página se encuetran los botones de los diferentes tipos de indicadores KPIs selecionados. Al hacer click en uno de ellos, éste panel será remplazado por la aplicacion del indicador que le permitirá registrar, procesar, y ver estadísticas.</p>
+        </div>
+      </div>
+    </div>
+    <br/> 
+    {% endtplhandlebars %}
+
+
+  </head>
+  <body>
+  <div id="content">
+   
+  </div>
+ 
+  </body>
+  <script type="text/javascript">
+    
+      $('#kpiEco').click(function() {
+        alert("jajaa");
+      });
+      $('#kpiDe').click(function() {
+        alert("jojo");
+      })
+    
+  </script>
+
+</html>
+
